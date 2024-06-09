@@ -33,6 +33,7 @@ $enable-shadows: false;
 @import "https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald&display=swap";
 
 @import "bootstrap/scss/bootstrap";
+// @import "~bootstrap/dist/css/bootstrap.css";
 
 
 /********** Custom CSS ************/
@@ -153,7 +154,7 @@ $enable-shadows: false;
     align-items: center;
     justify-content: center;
     font-size: 35px;
-    color: $white;
+    color: $light;
     background: $primary;
 }
 
